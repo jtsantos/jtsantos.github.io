@@ -1,0 +1,4 @@
+baseURL = 'http://jtsantos.org/'
+languageCode = 'en-us'
+title = 'Blog Teste'
+theme = "ananke"
